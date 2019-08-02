@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreConfigTransform", "NetCoreConfigTransform\NetCoreConfigTransform.csproj", "{791E66C1-725D-440A-BF7A-7E3CEB323177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791E66C1-725D-440A-BF7A-7E3CEB323177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D296B6E2-3D9D-4502-845B-0B5D0719FA42}
+	EndGlobalSection
+EndGlobal
